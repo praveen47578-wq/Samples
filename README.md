@@ -1,5 +1,6 @@
 # Samples
 DESIGNS
+All below are made from scratch and not from any pre-existing template.
 
 
 General Poster(From Sratch):
