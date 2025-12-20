@@ -9,4 +9,4 @@ Thumbnail(From Scratch):
 ![image alt](PollUtioN_20251220_153201_0000.png)
 
 Magazine Poster:
-![image alt](
+![image alt](out_20251220_170418_0000.png)
