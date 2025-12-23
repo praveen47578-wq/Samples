@@ -12,3 +12,5 @@ Thumbnail:
 
 Magazine Poster:
 ![image alt](out_20251220_170418_0000.png)
+
+![image alt](huge_20251223_064518_0000.png)
